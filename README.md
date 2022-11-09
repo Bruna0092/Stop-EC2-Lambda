@@ -1,5 +1,5 @@
 # Stop-EC2-Lambda
-Parar Instâncias EC2 na AWC com uma função Lambda
+Parar Instâncias EC2 na AWS com uma função Lambda
 
 1 - Criar uma Role ---> [role-iam](https://github.com/Bruna0092/Stop-EC2-Lambda/blob/ab05e1ff0bc189c2ab841ba2f2000efb4c6879b9/role-iam)
 
